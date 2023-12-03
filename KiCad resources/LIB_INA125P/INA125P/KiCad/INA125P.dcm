@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA125P
+D Texas Instruments INA125P Instrumentation Amplifier, 0.25mV Offset, CMMR 78dB, 5 V, 16-Pin PDIP
+K
+F http://www.ti.com/lit/gpn/ina125
+$ENDCMP
+#
+#End Doc Library
