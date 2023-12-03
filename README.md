@@ -1,4 +1,4 @@
-# Textile Triboelectric Nano-Generators (TENGs) Wearable Sensor System
+# Portable Sampler for Textile Triboelectric Nano-Generators (TENGs) Wearable Sensor System
 
 ## Overview
 
